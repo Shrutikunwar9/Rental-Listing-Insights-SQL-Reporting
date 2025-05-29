@@ -1,4 +1,4 @@
-# 🏨 OYO Hotel SQL Analytics Project
+# 🏨 Hotel SQL Analytics Project
 
 ## 📌 Objective
 The goal of this project is to apply SQL to analyze hotel data from OYO to generate actionable business insights. This includes customer behavior analysis, pricing strategies, and hotel performance evaluation based on key performance indicators (KPIs).
